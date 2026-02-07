@@ -22,7 +22,7 @@ This course is offered **free of charge** and will be delivered by **Muhammad Ab
 
 ---
 Let's start with the basics of Artificial intelligence.
-[[Session 01 - Introduction to the basics of Essential of AI or Agentic AI]]
+[Session 01 - Introduction to the basics of Essential of AI or Agentic AI](Session%2001%20-%20Introduction%20to%20the%20basics%20of%20Essential%20of%20AI%20or%20Agentic%20AI.md)
 
   
 

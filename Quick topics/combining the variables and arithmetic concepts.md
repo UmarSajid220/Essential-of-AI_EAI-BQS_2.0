@@ -117,4 +117,4 @@ age = int(input("What is your age? "))
 ```
 
 
-And of course... the [[Problems to solve by combining the variables and arithmetic operations]]
+And of course... the [Problems to solve by combining the variables and arithmetic operations](Problems%20to%20solve%20by%20combining%20the%20variables%20and%20arithmetic%20operations.md)

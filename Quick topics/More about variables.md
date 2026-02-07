@@ -242,4 +242,4 @@ In its simplicity the comma notation of the `print` command can often be usefu
 If you are using an older version of Python, f-strings may not work. They were introduced in Python version 3.6. Later on during the course you will install Python on your own computer. Unfortunately, the more modern versions of Python are not always available for older operating systems. If that is the case with your computer, when there are exercises requiring the use of f-strings, you can always try them out in the in-browser exercise templates in these early parts of this course.
 
 
-Now solve [[Something little complex about variables]] 
+Now solve [Something little complex about variables](Something%20little%20complex%20about%20variables.md) 

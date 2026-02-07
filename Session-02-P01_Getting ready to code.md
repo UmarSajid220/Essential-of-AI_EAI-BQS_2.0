@@ -1,5 +1,5 @@
 
-> *Make sure you go through the [[Session 01 - Introduction to the basics of Essential of AI or Agentic AI]] first to get the idea of what we are going to do in this course*
+> *Make sure you go through the [Session 01 - Introduction to the basics of Essential of AI or Agentic AI](Session%2001%20-%20Introduction%20to%20the%20basics%20of%20Essential%20of%20AI%20or%20Agentic%20AI.md) first to get the idea of what we are going to do in this course*
 
 ### Setting up environment & Getting the hang of the each thing
 - [ ]  Terminal or CMD
@@ -11,7 +11,7 @@
 - [ ]  Running first Python programs
 - [ ]  VCS (Version Control System)
 
-If you've gone through all this material then let's move to the next topic. which the [[Session-02-P02_Writing the first line of code]]
+If you've gone through all this material then let's move to the next topic. which the [Session-02-P02_Writing the first line of code](Session-02-P02_Writing%20the%20first%20line%20of%20code.md)
 
 ---
 ## 1. Terminal or CMD

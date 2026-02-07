@@ -10,7 +10,7 @@
 - [x]  The role of agentic AI in Pakistan’s future
 - [x]  Core concepts: training
 
-Now that the foundation has been build and the intent of the course is clear, let's move to the [[Session-02-P01_Getting ready to code]].
+Now that the foundation has been build and the intent of the course is clear, let's move to the [Session-02-P01_Getting ready to code](Session-02-P01_Getting%20ready%20to%20code.md).
 The next lesson will teach you how to set up an environment to start the programming.
 
 

@@ -17,4 +17,4 @@ Sample output
 
 Mean: 1.6233333333333333
 
-Problem to solve : [[Game of Arithmetic]]
+Problem to solve : [Game of Arithmetic](Game%20of%20Arithmetic.md)

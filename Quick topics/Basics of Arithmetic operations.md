@@ -113,4 +113,4 @@ What is your height? **163**
 What is your weight? **74.45** 
 The BMI is 28.02137829801649
 
-And now your favorite part of [[Solving arithmetic problems]] 
+And now your favorite part of [Solving arithmetic problems](Solving%20arithmetic%20problems.md) 

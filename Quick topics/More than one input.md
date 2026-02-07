@@ -51,4 +51,4 @@ Sample output
 What is your address? **Python Path 10** Please type in a new address: **Programmer's Walk 23** Your address is now Programmer's Walk 23
 
 Solve the next exercises to understand it more deeply
-[[Problems to understand and solve when taking multiple inputs]]
+[Problems to understand and solve when taking multiple inputs](Problems%20to%20understand%20and%20solve%20when%20taking%20multiple%20inputs.md)
