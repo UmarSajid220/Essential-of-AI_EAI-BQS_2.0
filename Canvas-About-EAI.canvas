@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c27672845ba0f468","type":"file","file":"Essential of AI/Essential of AI.md","x":-900,"y":-60,"width":280,"height":80},
+		{"id":"fcff0b8688084159","type":"file","file":"Essential of AI/Session 01 - Introduction to the basics of Essential of AI or Agentic AI.md","x":-280,"y":-220,"width":400,"height":113},
+		{"id":"d4284340aaf1125b","x":-280,"y":-58,"width":400,"height":78,"type":"file","file":"Essential of AI/Session-02-P01_Getting ready to code.md"}
+	],
+	"edges":[
+		{"id":"1688488430e9753e","fromNode":"c27672845ba0f468","fromSide":"right","toNode":"fcff0b8688084159","toSide":"left"},
+		{"id":"ba6dd4fba37950ab","fromNode":"fcff0b8688084159","fromSide":"right","toNode":"d4284340aaf1125b","toSide":"right"}
+	]
+}
